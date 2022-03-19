@@ -1,0 +1,9 @@
+{
+  "name": "ecoa-lite",
+  "packageManager": "yarn@3.2.0",
+  "workspaces": [
+    "sqdl-engine",
+    "sqdl-engine-test",
+    "ecoa-cli"
+  ]
+}

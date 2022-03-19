@@ -1,0 +1,19 @@
+{
+  "name": "sqdl-engine",
+  "version": "1.0.0",
+  "description": "sqdl runtime engine for ecoa",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sqdl",
+    "statemachine",
+    "xstate"
+  ],
+  "author": "Suvoda Product Development",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}

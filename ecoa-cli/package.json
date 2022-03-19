@@ -1,0 +1,17 @@
+{
+  "name": "ecoa-cli",
+  "version": "1.0.0",
+  "description": "CLI to execute functionality exposed by sqdl-engine",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -b",
+    "go": "node dist/ecoa-cli.js"
+  },
+  "author": "Suvoda Product Development",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16",
+    "sqdl-engine": "workspace:*",
+    "typescript": "^4.6.2"
+  }
+}
